@@ -4,7 +4,7 @@
 #
 Name     : R-mice
 Version  : 3.13.0
-Release  : 4
+Release  : 5
 URL      : https://cran.r-project.org/src/contrib/mice_3.13.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/mice_3.13.0.tar.gz
 Summary  : Multivariate Imputation by Chained Equations
