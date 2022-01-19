@@ -1,2 +1,6 @@
-3.13.0
+3.14.0
+R-broom.mixed
+R-glmnet
+R-lmtest
 R-metafor
+R-mitml
